@@ -1,1 +1,10 @@
 # socialApp
+![](screens/1.PNG)
+![](screens/2.PNG)
+![](screens/3.PNG)
+![](screens/4.PNG)
+![](screens/5.PNG)
+![](screens/6.PNG)
+![](screens/7.PNG)
+![](screens/8.PNG)
+![](screens/9.PNG)
